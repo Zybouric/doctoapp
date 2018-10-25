@@ -11,7 +11,7 @@
  Step to follow:
  </h5>
 <ol>
- <li>Make a git clone: <code>https://github.com/Zybouric/JeudiS4/tree/master/Doctolib/Doctoapp </code></li>
+ <li>Make a git clone: <code>https://github.com/Zybouric/doctoapp.git </code></li>
  <li>Install our gems: <code>bundle install</code></li>
 
 </ol>
